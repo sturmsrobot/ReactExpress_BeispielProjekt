@@ -18,12 +18,12 @@ cd react-express-example`
 
 ### 2. Backend-Server einrichten 
 
-# 1.	Wechsle in das server-Verzeichnis und installiere die Abhängigkeiten:
+1.	Wechsle in das server-Verzeichnis und installiere die Abhängigkeiten:
 
 `cd server`
 `npm install`
 
-# 2.	Starte den Express-Server:
+2.	Starte den Express-Server:
 
 `npm start`
 
@@ -32,12 +32,12 @@ Der Server läuft jetzt auf http://localhost:5000.
 
 ### 3. Frontend-Setup
 
-# 1. Wechsle in das client-react-Verzeichnis und installiere die Abhängigkeiten:
+1. Wechsle in das client-react-Verzeichnis und installiere die Abhängigkeiten:
 
 `cd ../client`
 `npm install`
 
-# 2.	Starte die React-Anwendung:
+2.	Starte die React-Anwendung:
 
 `npm start`
 
