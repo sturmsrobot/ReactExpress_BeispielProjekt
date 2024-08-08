@@ -34,7 +34,7 @@ Der Server läuft jetzt auf http://localhost:5000.
 
 1. Wechsle in das client-react-Verzeichnis und installiere die Abhängigkeiten:
 
-`cd ../client`
+`cd ../client-react`
 `npm install`
 
 2.	Starte die React-Anwendung:
