@@ -4,7 +4,7 @@ Dieses Repository enthält ein einfaches Beispielprojekt, das eine React-Anwendu
 
 ## Projektstruktur
 
-- **`client/`**: Enthält das React-Frontend.
+- **`client-react/`**: Enthält das React-Frontend.
 - **`server/`**: Enthält den Express-Backend-Server.
 
 ## Installation und Einrichtung
